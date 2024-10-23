@@ -52,6 +52,7 @@ body {
     border-radius: 15px;
     font-size: 18px;
     transition: 0.5s;
+    background-color: rgba(31, 31, 31, 0.581);
   }
   
   .menuItems:hover {
