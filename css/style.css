@@ -5,7 +5,7 @@ body {
 #content {
   position:relative;
 }
-
+/* Text Types */
 h1 {
   font-size: 100px;
   color: black;
@@ -23,7 +23,7 @@ p {
   font-size: 50px;
   color: black;
 }
-
+/* Basic Button */
 .button {
   background-color: #0000aa;
   border: none;
@@ -37,8 +37,8 @@ p {
   cursor: pointer;
   border-radius: 16px;
 }
-
-.menuITEMS {
+/* Menu Items */
+.menuItems {
   position: relative;
   left: 50%;
   margin: 10px;
@@ -54,11 +54,11 @@ p {
   background-color: rgba(31, 31, 31, 0.581);
 }
 
-.menuITEMS:hover {
+.menuItems:hover {
   width: 84%;
   border-radius: 50px;
 }
-
+/* Positions */
 .leftcorner {
   position: absolute;
         top: 0px;
