@@ -57,6 +57,8 @@ a {
   transition: 0.5s;
   background-color: rgba(31, 31, 31, 0.581);
   z-index: 10;
+  text-align: center; 
+  line-height: 70px;  
 }
 
 .menuITEMS:hover {
