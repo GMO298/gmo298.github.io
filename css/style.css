@@ -88,5 +88,13 @@ a {
 .top {
   position: sticky;
   top: 0;
+  width: 100%;
+  background-color: rgba(31, 31, 31, 0.581);
   text-align: center;
+  font-family: trebuchet ms;
+  font-size: 20px;
+  color: white;
+  justify-content: center;
+  margin-right: auto;
+  align-items: center;
 }
