@@ -84,3 +84,9 @@ a {
   margin-right: auto;
   width: 50%;
 }
+
+.top {
+  position: sticky;
+  top: 0;
+  text-align: center;
+}
