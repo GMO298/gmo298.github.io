@@ -68,14 +68,16 @@ a {
 /* Positions */
 .leftcorner {
   position: absolute;
-        top: 0px;
-        left: 0px;
+  top: 0px;
+  left: 0px;
+  z-index: 101;
 }
 
 .rightcorner {
   position: absolute;
-        top: 0px;
-        right: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 101;
 }
 
 .center {
