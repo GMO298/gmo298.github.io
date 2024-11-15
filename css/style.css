@@ -1,6 +1,7 @@
 /* Start */
 #content {
   position:relative;
+  overflow: auto; 
 }
 /* Text Types */
 h1 {
